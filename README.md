@@ -1,2 +1,2 @@
-# shinyproject2
+# New Shiny Project
 Shiny Project 
